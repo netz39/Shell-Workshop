@@ -1,0 +1,9 @@
+Shell
+=====
+
+Das Programm, dass Eingaben und Ausgaben vom Terminal auswertet.
+
+* bash
+* zsh
+
+

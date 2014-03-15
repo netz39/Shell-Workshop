@@ -1,0 +1,12 @@
+Terminal Emulator
+=================
+
+Das Fensterchen das die Terminals von Mainframes ersetzt.
+
+* konsole
+* gnome-terminal
+* xterm
+* Terminology
+* rxvt-unicode-256
+...
+

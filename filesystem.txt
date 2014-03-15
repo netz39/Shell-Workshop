@@ -1,0 +1,39 @@
+# Filesystem
+
+/
+home
+/etc
+/usr
+/var/log
+df -h
+.
+..
+
+## Navigation im Filesystem
+
+ls
+cd
+pwd
+
+## Dinge finden
+
+grep
+find
+
+## Files manipulieren
+
+mv
+cp
+rm
+chmod
+chown
+
+## Text editieren
+nano
+gedit
+vim
+
+## Text anzeigen
+less
+more
+cat

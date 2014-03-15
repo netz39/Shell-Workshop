@@ -1,0 +1,12 @@
+# Arbeiten auf anderen Rechnern
+
+ssh
+===
+* ssh username@rechnername
+* ssh-keygen
+* scp
+
+tmux
+====
+* Verwaltet ein Terminal, das nicht beendet wird wenn man die ssh-Session beendet.
+* Nimmt kommandos an die mit strg+b beginnen
